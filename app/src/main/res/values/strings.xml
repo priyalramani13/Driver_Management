@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="driver">Driver</string>
+    <string name="driver_form">Driver Form</string>
+    <string name="conductor">Conductor</string>
+    <string name="conductor_form">Conductor Form</string>
+    <string name="driver_id">Driver ID:</string>
+    <string name="conductor_id">Conductor ID:</string>
+    <string name="driving_license_number">Driving License No:</string>
+    <string name="emergency_number">Emergency No</string>
+    <string name="enter_contact_number">Enter Contact No</string>
+    <string name="enter_bus_number">Enter Bus No</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_license_number">Enter License No</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="bus_number">Bus No:</string>
+    <string name="emergency_contact_number">Emergency Contact No:</string>
+    <string name="driver_name">Driver Name:</string>
+    <string name="conductor_name">Conductor Name:</string>
+    <string name="contact_number">Contact No:</string>
+    <string name="address">Address:</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="todo">TODO</string>
+    <string name="in_charge">Incharge</string>
+    <string name="incharge_form">Incharge Form</string>
+    <string name="incharge_id">Incharge Id</string>
+    <string name="incharge_name">Incharge Name</string>
+    <string name="average">Average</string>
+    <string name="average_form">Average Form</string>
+    <string name="average_id">Average Id</string>
+    <string name="date">Date</string>
+    <string name="fuel">Fuel</string>
+    <string name="route_number">Route Number</string>
+    <string name="vehicle_no">Vehicle No.</string>
+    <string name="opening_km">Opening KM</string>
+    <string name="diesel_km">Diesel KM</string>
+    <string name="use_km">Use KM</string>
+    <string name="rate_of_fuel">Rate of Fuel</string>
+    <string name="amount_of_fuel">Amount of Fuel</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_fuel">Enter Fuel</string>
+    <string name="route_no">Route No.</string>
+    <string name="enter_route_no">Enter Route No.</string>
+    <string name="enter_vehicle_no">Enter Vehicle No.</string>
+    <string name="enter_diesel_km">Enter Diesel KM</string>
+    <string name="enter_opening_km">Enter Opening KM</string>
+    <string name="enter_use_km">Enter Use KM</string>
+    <string name="enter_avg">Enter Avg</string>
+    <string name="enter_fuel_rate">Enter Fuel Rate</string>
+
+
+</resources>
